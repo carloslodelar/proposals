@@ -1,0 +1,13 @@
+We need a Constitutional Committee for any proposal to pass. In the current state only new Committee OR no-confidence can be approved. This proposal also drops the threshold for CC votes to 4/7 so that we 
+can get things moving quickly. 
+
+This proposal includes 
+
+- Martin Lang: 5f1b4429fe3bda963a7b70ab81135112a785afcf55ccd695b122e794
+- Ancient Kraken:  a88042b034c1ecb45468dccbe91dcac8c6c39f7bee7b7a8dde41e4d4
+- Carlos Lopez de Lara:  a0de8358f1bd3644b4482bee197197c075a82ef2088b0a0ed561b7ee
+- Jamie Bertram: b7bfc26ddc6718133a204af6872149b69de83dd3350f60b257e55773
+- Ryan Williams: cebc104901ccf159028eb89aec4b96b820936d9f2d92c310cf610220
+- Ryan Williams HWW: faa9ee9fd9cba8cc01c07a34469e2d9fc9132985abe9f802bbf5cdc7
+- Rick: 
+- Mike: 
