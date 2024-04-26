@@ -1,0 +1,6 @@
+# Test for removing a single Constitutional Committee Member governance action
+
+This removes ColdKeyHash a0de8358f1bd3644b4482bee197197c075a82ef2088b0a0ed561b7ee
+from the committee because Martin needs to check the query output. 
+
+Please vote NO.
