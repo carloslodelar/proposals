@@ -1,3 +1,3 @@
-To find out what happens if we hardfork to ProtVer 10.0! 
+# Hardfork to Protocol Version 10
 
-Let's just allow this action **EXPIRE**,  THIS is just a test of the CLI integration of the hardfork inititation Governance action command. 
+SanchoPanza wants to move out of the bootstrap phase. Going to Protocol version 10 will bring full governance to SanchoNet.
